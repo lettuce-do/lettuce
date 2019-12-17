@@ -25,9 +25,5 @@ hs_err_pid*
 # IDE
 *.vscode/
 
-# Target Files (I'm not sure if these should be part of the repo)
-/target
-
-
 # IDK
 *.DS_STORE
