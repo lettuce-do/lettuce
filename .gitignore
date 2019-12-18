@@ -28,3 +28,4 @@ hs_err_pid*
 # IDK
 *.DS_STORE
 /.metadata/
+/.DS_Store
