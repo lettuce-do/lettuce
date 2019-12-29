@@ -26,6 +26,6 @@ hs_err_pid*
 *.vscode/
 
 # IDK
-*.DS_STORE
+*.                                                                                                                                                                                                                                                                                                                                                                                                                                DS_STORE
 /.metadata/
 /.DS_Store
