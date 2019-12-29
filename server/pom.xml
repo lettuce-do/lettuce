@@ -35,29 +35,5 @@
         </executions>
       </plugin>
 
-      <!-- Override Settings pom.xml -->
-      <plugin>
-        <groupId>org.codehaus.mojo</groupId>
-        <artifactId>exec-maven-plugin</artifactId>
-        <version>1.6.0</version>
-        <executions>
-          <execution>
-            <id>touch</id>
-            <goals>
-              <goal>compile</goal>
-            </goals>
-            <phase>compile</phase>
-            <configuration>
-              <executable>touch</executable>
-              <arguments>
-                <argument>a</argument>
-              </arguments>
-            </configuration>
-          </execution>
-        </executions>
-      </plugin>
-    </plugins>
-
-
   </build>
 </project>
